@@ -43,7 +43,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.gnucash.org/"
 "enter_bug.cgi?product=GnuCash&component=Translations\n"
 "POT-Creation-Date: 2026-06-20 15:18-0700\n"
-"PO-Revision-Date: 2026-08-31 13:52+0000\n"
+"PO-Revision-Date: 2026-09-06 03:51+0000\n"
 "Last-Translator: Zhaoquan Huang <zhaoquan2008@hotmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/gnucash/gnucash/zh_Hans/>\n"
@@ -52,7 +52,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.9.dev0\n"
+"X-Generator: Weblate 2026.9.1.dev0\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #: bindings/guile/date-utilities.scm:519
@@ -18545,17 +18545,17 @@ msgstr "带符号的金额"
 #: gnucash/import-export/csv-exp/csv-transactions-export.cpp:371
 #: gnucash/import-export/csv-exp/csv-transactions-export.cpp:391
 msgid "Amount Num."
-msgstr "金额数。"
+msgstr "金额数值"
 
 #: gnucash/import-export/csv-exp/csv-transactions-export.cpp:372
 #: gnucash/import-export/csv-exp/csv-transactions-export.cpp:392
 msgid "Value With Sym"
-msgstr "带符号的值"
+msgstr "带符号的价值"
 
 #: gnucash/import-export/csv-exp/csv-transactions-export.cpp:373
 #: gnucash/import-export/csv-exp/csv-transactions-export.cpp:393
 msgid "Value Num."
-msgstr "数值。"
+msgstr "价值数值"
 
 #: gnucash/import-export/csv-exp/csv-transactions-export.cpp:374
 #: gnucash/import-export/csv-exp/csv-transactions-export.cpp:396
